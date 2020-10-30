@@ -1,0 +1,21 @@
+/* Color Palette
+Dark Blue = #056674
+Light Blue = #66BFBF
+Pale Green = #E0ECE4
+Red = #FF4B5C
+*/
+
+@font-face {
+    font-family: 'Kollektif';
+    src: url(/fonts/kollektif/Kollektif.ttf);
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(/fonts/Montserrat/Montserrat-Regular.ttf); 
+}
+
+@font-face {
+    font-family: 'Norwester';
+    src: url(/fonts/norwester.otf);
+}
