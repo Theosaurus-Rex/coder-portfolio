@@ -1,9 +1,4 @@
-/* Color Palette
-Dark Blue = #056674
-Light Blue = #66BFBF
-Pale Green = #E0ECE4
-Red = #FF4B5C
-*/
+
 
 @font-face {
     font-family: 'Kollektif';
@@ -19,6 +14,13 @@ Red = #FF4B5C
     font-family: 'Norwester';
     src: url(/fonts/norwester.otf);
 }
+
+/* Color Palette
+Dark Blue = #056674
+Light Blue = #66BFBF
+Pale Green = #E0ECE4
+Red = #FF4B5C
+*/
 
 /* SmartPhone Layout */
 
