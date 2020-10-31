@@ -77,6 +77,7 @@ Red = #FF4B5C
     main {
         display: flex;
         flex-direction: column;
+        
     }
 
     main h1 {
@@ -104,6 +105,8 @@ Red = #FF4B5C
         border-radius: 5px;
     }
 
+    
+
     button {
         max-width: 150px;
         background-color: #FF4B5C;
@@ -119,4 +122,32 @@ Red = #FF4B5C
         font-size: 150%;
         padding: 10px;
     }
-}
+
+    /* About Page Content */
+
+    .fullbody {
+        max-width: 30%;
+        margin: 10px;
+        padding: 5px;
+        border: 3px dashed #FF4B5C;
+        border-radius: 5px;
+        
+    }
+
+    .about {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .about h1 {
+        font-size: 60px;
+    }
+
+    .about p {
+        margin: 20px;
+    }
+
+    .fullbody {
+        display: none;
+    }
