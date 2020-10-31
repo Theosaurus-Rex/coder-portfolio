@@ -19,3 +19,59 @@ Red = #FF4B5C
     font-family: 'Norwester';
     src: url(/fonts/norwester.otf);
 }
+
+/* SmartPhone Layout */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+
+    /* Styles */
+
+    body {
+        max-width: 480px;
+    }
+
+    /* Header and Nav Bar */
+
+    nav {
+        display: flex;
+    }
+
+    .logo {
+        align-self: flex-start;
+        height: 40px;
+        width: 40px;
+    }
+
+    nav ul {
+        display: flex;
+        flex-wrap: wrap;
+        list-style-type: none;
+        justify-content: space-around;
+    }
+
+    nav ul li a {
+        font-size: 10px;
+        margin: 5px;
+    }
+
+    /* Landing Page Content */
+
+    main {
+        display: flex;
+        flex-direction: column;
+    }
+
+    main h1 {
+     margin-left: 30px;
+    }
+
+
+    .portrait {
+        max-width: 480px;
+        width: 50%;
+        margin: auto;
+        padding: 5px;
+        border: 3px dashed #FF4B5C;
+        border-radius: 5px;
+    }
+}
