@@ -28,18 +28,28 @@ Red = #FF4B5C
 
     body {
         max-width: 480px;
+        background-color: #66BFBF;
+        margin: 0;
     }
 
     /* Header and Nav Bar */
 
+    header {
+        background-color: #056674;
+    }
+
     nav {
         display: flex;
+    
     }
 
     .logo {
         align-self: flex-start;
-        height: 40px;
-        width: 40px;
+        height: 50px;
+        width: 50px;
+        margin-top: 5px;
+        margin-left: 5px;
+        margin-bottom: 5px;
     }
 
     nav ul {
@@ -47,11 +57,17 @@ Red = #FF4B5C
         flex-wrap: wrap;
         list-style-type: none;
         justify-content: space-around;
+        margin: auto;
+        padding: 0;
     }
 
     nav ul li a {
-        font-size: 10px;
+        font-size: 20px;
+        font-family: 'Norwester', sans-serif;
+        color: #E0ECE4;
         margin: 5px;
+        text-decoration: none;
+        
     }
 
     /* Landing Page Content */
@@ -63,6 +79,17 @@ Red = #FF4B5C
 
     main h1 {
      margin-left: 30px;
+     font-size: 50px;
+     font-family: 'Kollektif', Arial, sans-serif;
+     color: #E0ECE4;
+     text-shadow: 2px 2px #FF4B5C;
+    }
+
+    main p {
+        font-family: 'Montserrat', Arial, sans-serif;
+        font-size: 120%;
+        margin: 10px;
+        color: #E0ECE4;
     }
 
 
@@ -73,5 +100,21 @@ Red = #FF4B5C
         padding: 5px;
         border: 3px dashed #FF4B5C;
         border-radius: 5px;
+    }
+
+    button {
+        max-width: 150px;
+        background-color: #FF4B5C;
+        border: 1px solid #056674;
+        border-radius: 5px;
+        margin: auto;
+    }
+
+    button a {
+        text-decoration: none;
+        font-family: 'Norwester', Arial, sans-serif;
+        color: #E0ECE4;
+        font-size: 150%;
+        padding: 10px;
     }
 }
