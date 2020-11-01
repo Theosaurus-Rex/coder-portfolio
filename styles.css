@@ -151,3 +151,27 @@ Red = #FF4B5C
     .fullbody {
         display: none;
     }
+
+    .about h2 {
+        font-family: 'Kollektif', Arial, sans-serif;
+        font-size: 220%;
+        color: #E0ECE4;
+        text-shadow: 2px 2px #FF4B5C;
+        margin-left: 20px;
+    }
+
+    .about h3 {
+        font-family: 'Kollektif', Arial, sans-serif;
+        font-size: 150%;
+        background-color: #E0ECE4;
+        padding: 10px;
+        color: #056674;
+        margin: auto;
+        box-shadow: 5px 5px #056674;
+
+    }
+
+    .about ul {
+        font-family: 'Montserrat', Arial, sans-serif;
+        color: #056674;
+    }
