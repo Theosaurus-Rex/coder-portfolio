@@ -191,3 +191,36 @@ Red = #FF4B5C
         font-size: 150%;
         padding: 10px;
     }
+
+    /* Projects Page Content */
+
+    .projects h2 {
+        font-family: 'Kollektif', Arial, sans-serif;
+        font-size: 220%;
+        color: #E0ECE4;
+        text-shadow: 2px 2px #FF4B5C;
+        margin-left: 20px;  
+    }
+
+    .projects img {
+        max-width: 370px;
+        border: 3px solid #E0ECE4;
+        box-shadow: 5px 5px #056674;
+        margin-left: 20px;
+    }
+
+    .projects button {
+        max-width: 150px;
+        background-color: #FF4B5C;
+        border: 1px solid #056674;
+        border-radius: 5px;
+        margin-left: 15px; 
+    }
+
+    .projects button a {
+        text-decoration: none;
+        font-family: 'Norwester', Arial, sans-serif;
+        color: #E0ECE4;
+        font-size: 150%;
+        padding: 10px;
+    }
