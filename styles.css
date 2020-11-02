@@ -101,8 +101,7 @@ Red = #FF4B5C
         width: 50%;
         margin: auto;
         padding: 5px;
-        border: 3px dashed #FF4B5C;
-        border-radius: 5px;
+        filter: drop-shadow(5px 5px 8px #056674);
     }
 
     
