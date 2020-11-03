@@ -248,3 +248,23 @@ Red = #FF4B5C
         margin: 0 0 5px 20px;
         font-style: italic;
     }
+
+    .blog p {
+        margin-left: 30px;
+    }
+
+    .blog button {
+        max-width: 150px;
+        background-color: #FF4B5C;
+        border: 1px solid #056674;
+        border-radius: 5px;
+        margin: 0 30px 30px 30px; 
+    }
+
+    .blog button a {
+        text-decoration: none;
+        font-family: 'Norwester', Arial, sans-serif;
+        color: #E0ECE4;
+        font-size: 150%;
+        padding: 10px;
+    }
