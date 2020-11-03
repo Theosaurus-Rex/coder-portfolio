@@ -9,7 +9,7 @@
 <body>
     <header>
         <nav>
-            <img src="img/TH.png" alt="logo">
+            <img class="logo" src="../img/TH.png" alt="logo">
             <ul>
                 <li><a href="/index.html">Home</a></li>
                 <li><a href="../pages/about.html">About</a></li>
@@ -19,26 +19,31 @@
             </ul>
         </nav>
     </header>
+   <main class="contact"> 
    <h1>Contact Me</h1>
    <p>Contact me on one of my social media accounts below, or send me a message in the form provided.
        I can't wait to hear from you!
    </p>
    <!--Social Media Buttons-->
-   <button>Twitter</button>
-   <button>Github</button>
-   <button>Codepen</button>
+   <article class="buttons">
+   <button><a>Twitter</a></button>
+   <button><a>Github</a></button>
+   <button><a>Codepen</a></button>
+   </article>
 
    <!--Contact Form-->
    <form>
-       <label>Name</label>
-       <input type="text">
-       <label>Phone</label>
-       <input type="text">
-       <label>Email</label>
-       <input type="text">
-       <label>Message</label>
-       <textarea rows="10" cols="20"></textarea>
+       <label>Name</label><br>
+       <input type="text"><br>
+       <label>Phone</label><br>
+       <input type="text"><br>
+       <label>Email</label><br>
+       <input type="text"><br>
+       <label>Message</label><br>
+       <textarea rows="10" cols="20"></textarea><br>
+       <button><a>Send</a></button>
    </form>
-    
+
+   </main>
 </body>
 </html>

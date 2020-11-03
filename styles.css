@@ -268,3 +268,51 @@ Red = #FF4B5C
         font-size: 150%;
         padding: 10px;
     }
+
+    /* Contact Page Content */
+    
+    .contact h1 {
+        margin-left: 20px;
+    }
+
+    .contact p {
+        margin-left: 20px;
+    }
+
+    .contact article {
+        display: flex;
+        flex-direction: row;
+        margin-top: 15px;
+        margin-bottom: 30px;
+
+    }
+
+    .contact button {
+        max-width: 100px;
+        background-color: #FF4B5C;
+        border: 1px solid #056674;
+        border-radius: 5px;
+           
+    }
+
+    .contact form {
+        font-family: "Kollektif", Arial, sans-serif;
+        font-size: 150%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .contact label {
+        color: #E0ECE4;
+        text-shadow: 2px 2px #056674;
+    }
+
+    .contact input {
+        border: 1px solid #056674;
+        box-shadow: 2px 2px #056674;
+    }
+
+    .contact textarea {
+        border: 1px solid #056674;
+        box-shadow: 2px 2px #056674; 
+    }
