@@ -22,6 +22,8 @@ Pale Green = #E0ECE4
 Red = #FF4B5C
 */
 
+
+
 /* SmartPhone Layout */
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
@@ -316,3 +318,116 @@ Red = #FF4B5C
         border: 1px solid #056674;
         box-shadow: 2px 2px #056674; 
     }
+} 
+
+/* Tablet Layout */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1112px) {
+
+    /* Styles */
+
+    body {
+        max-width: 1112px;
+        background-color: #66BFBF;
+        margin: 0;
+    }
+
+    /* Header and Nav Bar */
+
+    header {
+        background-color: #056674;
+        min-width: 100%;
+        
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column;
+    
+    }
+
+    .logo {
+        
+        height: 100px;
+        width: 100px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        align-self: center;
+    }
+
+    nav ul {
+        display: flex;
+        list-style-type: none;
+        justify-content: space-evenly;
+        margin: auto;
+        padding: 0;
+    }
+
+    nav ul li a {
+        font-size: 40px;
+        font-family: 'Norwester', sans-serif;
+        color: #E0ECE4;
+        margin: 15px;
+        text-decoration: none;
+        
+    }
+
+    /* Landing Page Content */
+
+    main {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            
+    }
+    
+    main h1 {
+         margin-left: 450px;
+         margin-top: 110px;
+         font-size: 90px;
+         font-family: 'Kollektif', Arial, sans-serif;
+         color: #E0ECE4;
+         text-shadow: 5px 5px #FF4B5C;
+         position: absolute;
+         
+    }
+    
+    main p {
+            font-family: 'Montserrat', Arial, sans-serif;
+            font-size: 190%;
+            margin: 20px;
+            color: #E0ECE4;
+            justify-self: center;
+    }
+    
+    
+    .portrait {
+            width: 40%;
+            padding: 5px;
+            filter: drop-shadow(5px 5px 8px #056674);
+            align-self: flex-start;
+            position: relative;
+            margin: 50px 50px 30px 50px;
+    }
+    
+        
+    
+    button {
+            max-width: 200px;
+            background-color: #FF4B5C;
+            border: 1px solid #056674;
+            border-radius: 5px;
+            margin: auto;
+            padding-top: 10px;
+            padding-bottom: 10px;
+    }
+    
+    button a {
+            text-decoration: none;
+            font-family: 'Norwester', Arial, sans-serif;
+            color: #E0ECE4;
+            font-size: 200%;
+            padding: 30px;
+    }
+
+}
