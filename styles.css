@@ -567,5 +567,62 @@ Red = #FF4B5C
         font-size: 150%;
         padding: 10px;
     }
+
+    /* Blog Page Content */
+
+    .blog h1 {
+      margin: 30px;
+    }
+
+    .posts {
+        margin-top: 200px;
+    }
+
+    .blog img {
+        margin: 30px 70px 30px 70px;
+        max-width: 550px;
+        border: 3px solid #E0ECE4;
+        box-shadow: 5px 5px #056674;
+    }
+
+    .blog h2 {
+        font-family: 'Kollektif', Arial, sans-serif;
+        font-size: 280%;
+        color: #E0ECE4;
+        text-shadow: 2px 2px #FF4B5C;
+        margin: 0 20px 10px 20px; 
+    }
+
+    .blog h3 {
+        font-family: 'Kollektif', Arial, sans-serif;
+        font-size: 140%;
+        color: #056674;
+        margin: 0 0 5px 20px;
+        font-style: italic;
+    }
+
+    .blog p {
+        margin-left: 30px;
+    }
+
+    .blog button {
+        max-width: 150px;
+        background-color: #FF4B5C;
+        border: 1px solid #056674;
+        border-radius: 5px;
+        margin: 0 30px 30px 30px; 
+    }
+
+    .blog button a {
+        text-decoration: none;
+        font-family: 'Norwester', Arial, sans-serif;
+        color: #E0ECE4;
+        font-size: 190%;
+        padding: 10px;
+    }
+
+    .blog article {
+        margin-bottom: 30px;
+    }
 }
 
