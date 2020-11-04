@@ -24,6 +24,8 @@ Red = #FF4B5C
 
 /* Desktop View*/
 
+@media only screen and (min-device-width: 1113px) {
+
 body {
     background-color: #66BFBF;
     margin: 0;
@@ -378,12 +380,12 @@ button a {
     width: 500px;
     margin: 30px;
 }
-
+}
 
 
 /* SmartPhone Layout */
 
-@media only screen and (min-device-width: 220px) and (max-device-width: 760px) {
+@media only screen and (min-device-width: 220px) and (max-device-width: 690px) {
 
     /* Styles */
 
@@ -445,6 +447,7 @@ button a {
      font-family: 'Kollektif', Arial, sans-serif;
      color: #E0ECE4;
      text-shadow: 2px 2px #FF4B5C;
+     margin-top: 30px;
     }
 
     main p {
@@ -458,9 +461,11 @@ button a {
     .portrait {
         max-width: 480px;
         width: 50%;
-        margin: auto;
+        margin: 20px auto 30px auto;
         padding: 5px;
         filter: drop-shadow(5px 5px 8px #056674);
+        display: relative;
+        
     }
 
     
