@@ -385,7 +385,7 @@ button a {
 
 /* SmartPhone Layout */
 
-@media only screen and (min-device-width: 220px) and (max-device-width: 690px) {
+@media only screen and (min-device-width: 220px) and (max-device-width: 767px) {
 
     /* Styles */
 
