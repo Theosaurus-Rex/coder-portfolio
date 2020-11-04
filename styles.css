@@ -129,8 +129,8 @@ button a {
 /* About Page Content */
 
 .fullbody {
-    max-width: 30%;
-    margin: 40px;
+    max-width: 12%;
+    margin: 40px 0 20px 170px;
     padding: 5px;
     filter: drop-shadow(5px 5px 8px #056674);
     z-index: -3;
@@ -139,19 +139,20 @@ button a {
 .about {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .about h1 {
-    font-size: 150px;
-    margin-top: 250px;
+    font-size: 200px;
+    margin-top: 200px;
     margin-right: 50px;
     margin-left: 280px;
     z-index: 3;
+    position: absolute;
 }
 
 .about p {
-    margin: 30px;
+    margin: 40px;
 }
 
 
@@ -167,10 +168,12 @@ button a {
     font-family: 'Kollektif', Arial, sans-serif;
     font-size: 170%;
     background-color: #E0ECE4;
-    padding: 10px;
+    padding: 10px 5px 10px 5px;
     color: #056674;
     margin-left: 30px;
     box-shadow: 5px 5px #056674;
+    max-width: 50%;
+    
 
 }
 
