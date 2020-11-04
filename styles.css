@@ -525,7 +525,7 @@ button a {
 
     .about h3 {
         font-family: 'Kollektif', Arial, sans-serif;
-        font-size: 150%;
+        font-size: 130%;
         background-color: #E0ECE4;
         padding: 10px;
         color: #056674;
@@ -557,6 +557,11 @@ button a {
 
     /* Projects Page Content */
 
+    .project-gallery {
+        max-width: 90%;
+        margin-top: 0px;
+    }
+
     .projects h2 {
         font-family: 'Kollektif', Arial, sans-serif;
         font-size: 220%;
@@ -566,7 +571,7 @@ button a {
     }
 
     .projects img {
-        max-width: 370px;
+        max-width: 90%;
         border: 3px solid #E0ECE4;
         box-shadow: 5px 5px #056674;
         margin-left: 20px;
@@ -592,7 +597,7 @@ button a {
 
     .blog img {
         margin-left: 30px;
-        max-width: 350px;
+        max-width: 80%;
         border: 3px solid #E0ECE4;
         box-shadow: 5px 5px #056674;
     }
@@ -631,6 +636,10 @@ button a {
         color: #E0ECE4;
         font-size: 150%;
         padding: 10px;
+    }
+
+    .blog article {
+        margin-bottom: 30px;
     }
 
     /* Contact Page Content */
@@ -803,9 +812,9 @@ button a {
     }
 
     .about {
-        display: flex;
+        display: inline-flex;
         flex-wrap: wrap;
-        flex-direction: row;
+        flex-direction: column;
     }
 
     .about h1 {
@@ -837,22 +846,25 @@ button a {
         color: #056674;
         margin-left: 30px;
         box-shadow: 5px 5px #056674;
+        max-width: 45%;
 
     }
 
     .about ul {
         font-family: 'Montserrat', Arial, sans-serif;
-        font-size: 170%;
-        margin-left: 50px;
+        font-size: 220%;
+        margin-left: 60px;
         color: #056674;
+        margin-bottom: 30px;
     }
 
     .about button {
-        max-width: 180px;
+        max-width: 30%;
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
-        margin: 30px auto 30px auto;
+        margin: 50px auto 30px auto;
+        padding: 5px;
     }
 
     .about button a {
@@ -872,26 +884,30 @@ button a {
 
     .project-gallery {
         margin-top: 170px;
+        margin-left: 20px;
+        margin-right: 20px;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
     }
 
     .project {
-        width: 40%;
-        height: 40%;
+        display: flex;
+        flex-direction: column;
+        width: 42%;
+        
         margin: 30px 10px 30px 30px;
     }
 
     .project-1 {
         display: flex;
         flex-direction: column;
-        max-width: 400px;
+        
     }
 
-    .project-1 img {
-        max-width: 390px;
-        max-height: 390px;
+    .project img {
+        max-width: 40%;
+        
     }
 
 
@@ -942,7 +958,7 @@ button a {
 
     .blog img {
         margin: 30px 70px 30px 70px;
-        max-width: 550px;
+        max-width: 70%;
         border: 3px solid #E0ECE4;
         box-shadow: 5px 5px #056674;
     }
