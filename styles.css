@@ -266,11 +266,13 @@ button a {
 /* Blog Page Content */
 
 .blog h1 {
-  margin: 30px;
+  margin: 30px 10px 30px 530px;
 }
 
 .posts {
-    margin-top: 200px;
+    margin-top: 260px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .blog img {
@@ -317,7 +319,8 @@ button a {
 }
 
 .blog article {
-    margin-bottom: 30px;
+    margin: 30px;
+    max-width: 40%;
 }
 
 /* Contact Page Content */
