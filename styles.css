@@ -203,32 +203,28 @@ button a {
 /* Projects Page Content */
 
 .projects h1 {
-    margin-left: 210px;
-    margin-top: 30px;
+    position: absolute;
+    margin: 30px 30px 30px 400px;
 }
 
 .project-gallery {
-    margin-top: 170px;
-    display: flex;
-    flex-direction: row;
+    margin-top: 230px;
+    display: inline-flex;
     flex-wrap: wrap;
+    justify-items: space-between;
 }
 
 .project {
-    width: 40%;
-    height: 40%;
-    margin: 30px 10px 30px 30px;
+    max-width: 50%;
+    height: 50%;
+    margin: 30px 10px 20px 30px;
+
 }
 
-.project-1 {
-    display: flex;
-    flex-direction: column;
-    max-width: 400px;
-}
 
 .project-1 img {
-    max-width: 390px;
-    max-height: 390px;
+    max-width: 50%;
+    max-height: 50%;
 }
 
 
@@ -236,12 +232,12 @@ button a {
     font-family: 'Kollektif', Arial, sans-serif;
     font-size: 300%;
     color: #E0ECE4;
-    text-shadow: 5px 5px #FF4B5C;
+    text-shadow: 3px 3px #FF4B5C;
     margin-left: 30px;  
 }
 
 .projects p {
-    font-size: 130%;
+    font-size: 150%;
 }
 
 .projects img {
@@ -256,7 +252,7 @@ button a {
     background-color: #FF4B5C;
     border: 1px solid #056674;
     border-radius: 5px;
-    margin-left: 15px; 
+    margin-left: 30px; 
 }
 
 .projects button a {
