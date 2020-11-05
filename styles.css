@@ -190,7 +190,8 @@ button {
     border-radius: 5px;
     margin: 30px auto 30px auto;
     font-family: 'Norwester', Arial, sans-serif;
-        color: #E0ECE4;
+    color: #E0ECE4;
+    font-size: 170%;;
 }
 
 
@@ -249,6 +250,7 @@ button {
     margin-left: 30px; 
     font-family: 'Norwester', Arial, sans-serif;
     color: #E0ECE4;
+    font-size: 170%;
 }
 
 
@@ -335,6 +337,7 @@ button {
     border-radius: 5px;
     font-family: 'Norwester', Arial, sans-serif;
     color: #E0ECE4;
+    font-size: 170%;
        
 }
 
@@ -464,6 +467,7 @@ button {
         margin: auto;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
+        font-size: 170%;
     }
 
     
@@ -529,6 +533,7 @@ button {
         margin: auto;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
+        font-size: 170%;
     }
 
     
@@ -563,6 +568,7 @@ button {
         margin-left: 15px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4; 
+        font-size: 170%;
     }
 
     
@@ -604,6 +610,7 @@ button {
         margin: 0 30px 30px 30px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4; 
+        font-size: 170%;
     }
 
     
@@ -637,6 +644,7 @@ button {
         border-radius: 5px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
+        font-size: 170%;
            
     }
 
@@ -765,6 +773,7 @@ button {
             padding-bottom: 10px;
             font-family: 'Norwester', Arial, sans-serif;
             color: #E0ECE4;
+            font-size: 170%;
     }
     
     
@@ -835,6 +844,7 @@ button {
         padding: 5px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
+        font-size: 170%;
     }
 
     
@@ -902,6 +912,7 @@ button {
         margin-left: 15px; 
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
+        font-size: 170%;
     }
 
     
@@ -951,6 +962,7 @@ button {
         margin: 0 30px 30px 30px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4; 
+        font-size: 170%;
     }
 
     
@@ -983,6 +995,7 @@ button {
         border-radius: 5px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
+        font-size: 170%;
            
     }
 
