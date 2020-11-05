@@ -19,14 +19,14 @@ Note that some features differ from the initial wireframe:
 
 ## Sitemap
 
-![Sitemap for Portfolio](img/sitemap.png)
+![Sitemap for Portfolio](docs/sitemap.png)
 
 ## Screenshots
 
-![About page desktop view](img/about-desktop.png)
-![Contact page mobile view](img/contact-mobile.png)
-![Home page iPad view](img/ipad-home.png)
-![Blog iPad view](img/blog-ipad.png)
+![About page desktop view](docs/about-desktop.png)
+![Contact page mobile view](docs/contact-mobile.png)
+![Home page iPad view](docs/ipad-home.png)
+![Blog iPad view](docs/blog-ipad.png)
 
 ## Target Audience
 This site is aimed at two primary audiences. The first group is made up of those who are seeking developers for their business or startup, and serves as a way of showcasing skills they may specifically be looking for to fill the role they need. The second, and perhaps less prominent audience, is individuals who are looking to contract a developer as a freelancer to work on a single project, such as a website.
