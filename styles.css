@@ -647,6 +647,41 @@ button {
         margin-bottom: 30px;
     }
 
+        /* Blog Post Individual Page Styles */
+
+        .blog-post {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        .blog-post h2 {
+            font-family: 'Kollektif', Arial, sans-serif;
+            font-size: 250%;
+            color: #E0ECE4;
+            text-shadow: 2px 2px #FF4B5C;
+            margin: 30px 20px 10px 20px; 
+        }
+    
+        .blog-post h3 {
+            font-family: 'Kollektif', Arial, sans-serif;
+            font-size: 110%;
+            color: #056674;
+            margin: 0 0 5px 20px;
+            font-style: italic;
+        }
+    
+        .blog-post img {
+            max-width: 80%;
+            border: 3px solid #E0ECE4;
+            box-shadow: 5px 5px #056674;
+            margin: 30px;
+        }
+    
+        .blog-post p {
+            font-size: 100%;
+            margin: 10px 30px 10px 30px;
+        }
+
     /* Contact Page Content */
     
     .contact h1 {
