@@ -22,9 +22,23 @@ Pale Green = #E0ECE4
 Red = #FF4B5C
 */
 
+button {
+    
+}
+
+button:hover {
+    box-shadow: 5px 5px #056674;
+    position: relative;
+    top: -5px;
+    left: -5px;
+
+}
+
 /* Desktop View*/
 
 @media only screen and (min-device-width: 1113px) {
+
+
 
 body {
     background-color: #66BFBF;
@@ -68,7 +82,12 @@ nav ul li a {
     color: #E0ECE4;
     margin: 15px 40px 15px 40px;
     text-decoration: none;
+    transition: .7s;
     
+}
+
+nav ul li a:hover {
+    color: #FF4B5C;
 }
 
 /* Landing Page Content */
@@ -121,7 +140,10 @@ button {
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
         font-size: 170%;
+        
+        
 }
+
 
 
 
