@@ -118,15 +118,12 @@ button {
         margin: auto;
         padding-top: 10px;
         padding-bottom: 10px;
-}
-
-button a {
-        text-decoration: none;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
-        font-size: 200%;
-        padding: 30px;
+        font-size: 170%;
 }
+
+
 
 /* About Page Content */
 
@@ -192,15 +189,10 @@ button a {
     border: 1px solid #056674;
     border-radius: 5px;
     margin: 30px auto 30px auto;
+    font-family: 'Norwester', Arial, sans-serif;
+        color: #E0ECE4;
 }
 
-.about button a {
-    text-decoration: none;
-    font-family: 'Norwester', Arial, sans-serif;
-    color: #E0ECE4;
-    font-size: 210%;
-    padding: 10px;
-}
 
 /* Projects Page Content */
 
@@ -255,15 +247,11 @@ button a {
     border: 1px solid #056674;
     border-radius: 5px;
     margin-left: 30px; 
-}
-
-.projects button a {
-    text-decoration: none;
     font-family: 'Norwester', Arial, sans-serif;
     color: #E0ECE4;
-    font-size: 150%;
-    padding: 10px;
 }
+
+
 
 /* Blog Page Content */
 
@@ -309,16 +297,12 @@ button a {
     background-color: #FF4B5C;
     border: 1px solid #056674;
     border-radius: 5px;
-    margin: 0 30px 30px 30px; 
+    margin: 0 30px 30px 30px;
+    font-family: 'Norwester', Arial, sans-serif;
+    color: #E0ECE4; 
 }
 
-.blog button a {
-    text-decoration: none;
-    font-family: 'Norwester', Arial, sans-serif;
-    color: #E0ECE4;
-    font-size: 190%;
-    padding: 10px;
-}
+
 
 .blog article {
     margin: 30px;
@@ -349,6 +333,8 @@ button a {
     background-color: #FF4B5C;
     border: 1px solid #056674;
     border-radius: 5px;
+    font-family: 'Norwester', Arial, sans-serif;
+    color: #E0ECE4;
        
 }
 
@@ -476,15 +462,11 @@ button a {
         border: 1px solid #056674;
         border-radius: 5px;
         margin: auto;
-    }
-
-    button a {
-        text-decoration: none;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
-        font-size: 150%;
-        padding: 10px;
     }
+
+    
 
     /* About Page Content */
 
@@ -545,15 +527,11 @@ button a {
         border: 1px solid #056674;
         border-radius: 5px;
         margin: auto;
-    }
-
-    .about button a {
-        text-decoration: none;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
-        font-size: 150%;
-        padding: 10px;
     }
+
+    
 
     /* Projects Page Content */
 
@@ -582,16 +560,12 @@ button a {
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
-        margin-left: 15px; 
+        margin-left: 15px;
+        font-family: 'Norwester', Arial, sans-serif;
+        color: #E0ECE4; 
     }
 
-    .projects button a {
-        text-decoration: none;
-        font-family: 'Norwester', Arial, sans-serif;
-        color: #E0ECE4;
-        font-size: 150%;
-        padding: 10px;
-    }
+    
 
     /* Blog Page Content */
 
@@ -627,16 +601,12 @@ button a {
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
-        margin: 0 30px 30px 30px; 
+        margin: 0 30px 30px 30px;
+        font-family: 'Norwester', Arial, sans-serif;
+        color: #E0ECE4; 
     }
 
-    .blog button a {
-        text-decoration: none;
-        font-family: 'Norwester', Arial, sans-serif;
-        color: #E0ECE4;
-        font-size: 150%;
-        padding: 10px;
-    }
+    
 
     .blog article {
         margin-bottom: 30px;
@@ -665,6 +635,8 @@ button a {
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
+        font-family: 'Norwester', Arial, sans-serif;
+        color: #E0ECE4;
            
     }
 
@@ -791,15 +763,11 @@ button a {
             margin: auto;
             padding-top: 10px;
             padding-bottom: 10px;
-    }
-    
-    button a {
-            text-decoration: none;
             font-family: 'Norwester', Arial, sans-serif;
             color: #E0ECE4;
-            font-size: 200%;
-            padding: 30px;
     }
+    
+    
 
     /* About Page Content */
 
@@ -865,15 +833,11 @@ button a {
         border-radius: 5px;
         margin: 50px auto 30px auto;
         padding: 5px;
-    }
-
-    .about button a {
-        text-decoration: none;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
-        font-size: 210%;
-        padding: 10px;
     }
+
+    
 
     /* Projects Page Content */
 
@@ -936,15 +900,11 @@ button a {
         border: 1px solid #056674;
         border-radius: 5px;
         margin-left: 15px; 
-    }
-
-    .projects button a {
-        text-decoration: none;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
-        font-size: 150%;
-        padding: 10px;
     }
+
+    
 
     /* Blog Page Content */
 
@@ -988,16 +948,12 @@ button a {
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
-        margin: 0 30px 30px 30px; 
+        margin: 0 30px 30px 30px;
+        font-family: 'Norwester', Arial, sans-serif;
+        color: #E0ECE4; 
     }
 
-    .blog button a {
-        text-decoration: none;
-        font-family: 'Norwester', Arial, sans-serif;
-        color: #E0ECE4;
-        font-size: 190%;
-        padding: 10px;
-    }
+    
 
     .blog article {
         margin-bottom: 30px;
@@ -1025,6 +981,8 @@ button a {
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
+        font-family: 'Norwester', Arial, sans-serif;
+        color: #E0ECE4;
            
     }
 
