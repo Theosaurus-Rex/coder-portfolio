@@ -1,5 +1,11 @@
 # Theo's Portfolio
 
+## Links
+
+**GitHub Repository:** https://github.com/Theosaurus-Rex/coder-portfolio
+
+**Live Website:** https://reverent-villani-122a74.netlify.app/
+
 ## Purpose
 The purpose of this portfolio is to showcase my skills and personality to potential employers. It not only serves as a directory for projects I've worked on but also shows my skills in developing websites through the content of the portfolio itself. Additionally, it is a platform that potential employers and clients can contact me through.
 

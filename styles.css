@@ -22,9 +22,17 @@ Pale Green = #E0ECE4
 Red = #FF4B5C
 */
 
-button {
-    
+
+/* Universal Animations */
+
+nav ul li a {
+    transition-duration: 0.2s;
 }
+
+nav ul li a:hover {
+    color: #FF4B5C;
+}
+
 
 button:hover {
     box-shadow: 5px 5px #056674;
@@ -34,7 +42,7 @@ button:hover {
 
 }
 
-/* Desktop View*/
+/* Desktop View */
 
 @media only screen and (min-device-width: 1113px) {
 
@@ -82,13 +90,11 @@ nav ul li a {
     color: #E0ECE4;
     margin: 15px 40px 15px 40px;
     text-decoration: none;
-    transition: .7s;
+    
     
 }
 
-nav ul li a:hover {
-    color: #FF4B5C;
-}
+
 
 /* Landing Page Content */
 
