@@ -140,7 +140,7 @@ button {
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
-        margin: auto;
+        margin: 10px auto 50px auto;
         padding-top: 10px;
         padding-bottom: 10px;
         font-family: 'Norwester', Arial, sans-serif;
@@ -216,7 +216,7 @@ button {
     background-color: #FF4B5C;
     border: 1px solid #056674;
     border-radius: 5px;
-    margin: 30px auto 30px auto;
+    margin: 30px auto 50px auto;
     font-family: 'Norwester', Arial, sans-serif;
     color: #E0ECE4;
     font-size: 170%;;
@@ -276,6 +276,7 @@ button {
     border: 1px solid #056674;
     border-radius: 5px;
     margin-left: 30px; 
+    margin-bottom: 30px;
     font-family: 'Norwester', Arial, sans-serif;
     color: #E0ECE4;
     font-size: 170%;
@@ -327,7 +328,7 @@ button {
     background-color: #FF4B5C;
     border: 1px solid #056674;
     border-radius: 5px;
-    margin: 0 30px 30px 30px;
+    margin: 0 30px 50px 30px;
     font-family: 'Norwester', Arial, sans-serif;
     color: #E0ECE4; 
 }
@@ -400,6 +401,7 @@ button {
     font-family: 'Norwester', Arial, sans-serif;
     color: #E0ECE4;
     font-size: 170%;
+    
        
 }
 
@@ -526,10 +528,10 @@ button {
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
-        margin: auto;
+        margin: 30px auto 50px auto;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
-        font-size: 170%;
+        font-size: 150%;
     }
 
     
@@ -592,10 +594,10 @@ button {
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
-        margin: auto;
+        margin: 30px auto 50px auto;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
-        font-size: 170%;
+        font-size: 150%;
     }
 
     
@@ -628,9 +630,10 @@ button {
         border: 1px solid #056674;
         border-radius: 5px;
         margin-left: 15px;
+        margin-bottom: 50px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4; 
-        font-size: 170%;
+        font-size: 150%;
     }
 
     
@@ -669,10 +672,10 @@ button {
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
-        margin: 0 30px 30px 30px;
+        margin: 0 30px 50px 30px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4; 
-        font-size: 170%;
+        font-size: 150%;
     }
 
     
@@ -742,7 +745,7 @@ button {
         border-radius: 5px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
-        font-size: 170%;
+        font-size: 150%;
            
     }
 
@@ -866,7 +869,7 @@ button {
             background-color: #FF4B5C;
             border: 1px solid #056674;
             border-radius: 5px;
-            margin: auto;
+            margin: 30px auto 50px auto;
             padding-top: 10px;
             padding-bottom: 10px;
             font-family: 'Norwester', Arial, sans-serif;
@@ -938,7 +941,7 @@ button {
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
-        margin: 50px auto 30px auto;
+        margin: 50px auto 50px auto;
         padding: 5px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
@@ -1008,6 +1011,7 @@ button {
         border: 1px solid #056674;
         border-radius: 5px;
         margin-left: 15px; 
+        margin-bottom: 30px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
         font-size: 170%;
@@ -1057,7 +1061,7 @@ button {
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
-        margin: 0 30px 30px 30px;
+        margin: 0 30px 50px 30px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4; 
         font-size: 170%;
