@@ -22,6 +22,31 @@ Pale Green = #E0ECE4
 Red = #FF4B5C
 */
 
+
+
+/* Universal Animations */
+
+nav ul li a {
+    transition-duration: 0.2s;
+}
+
+nav ul li a:hover {
+    color: #FF4B5C;
+}
+
+
+button:hover {
+    box-shadow: 5px 5px #056674;
+    position: relative;
+    top: -5px;
+    left: -5px;
+
+}
+
+/* Desktop View */
+
+@media only screen and (min-device-width: 1113px) {
+
 /* Header and Nav Bar */
 
 header {
@@ -64,31 +89,6 @@ nav ul li a {
     
     
 }
-
-/* Universal Animations */
-
-nav ul li a {
-    transition-duration: 0.2s;
-}
-
-nav ul li a:hover {
-    color: #FF4B5C;
-}
-
-
-button:hover {
-    box-shadow: 5px 5px #056674;
-    position: relative;
-    top: -5px;
-    left: -5px;
-
-}
-
-/* Desktop View */
-
-@media only screen and (min-device-width: 1113px) {
-
-
 
 body {
     background-color: #66BFBF;
@@ -452,7 +452,7 @@ button {
         margin: 0;
     }
 
-    /* Header and Nav Bar
+    /* Header and Nav Bar */
 
     header {
         background-color: #056674;
@@ -488,7 +488,7 @@ button {
         margin: 5px;
         text-decoration: none;
         
-    } */
+    }
 
     /* Landing Page Content */
 
