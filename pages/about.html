@@ -25,11 +25,15 @@
         </nav>
     </header>
     <main class="about">
+    <section class="about-top">
         <!--Portrait-->
         <img class="fullbody" src="/img/fullbody.png" alt="A cartoon drawing of Theo">
 
         <!--Biography-->
         <h1>About Me</h1>
+    </section>
+
+    <section class="about-middle">
         <p class="intro">Hi, my name is Theo! I'm currently studying to become a full-stack developer at Coder Academy Australia.
             I was drawn to programming because I crave new challenges and my ideal career is one where I am always learning something new.
             I love web design in particular as it allows me to combine my creative background with critical thinking and problem solving.
@@ -66,7 +70,8 @@
             <li>Visual Merchandising</li>
         </ul>
         <!--Resume Link-->
-        <button onclick="location.href = '../tech-resume.pdf'">Download CV</button>
+        <button target="_blank" onclick=" window.open ('../tech-resume.pdf', '_blank')">Download CV</button>
+    </section>
     </main>
     
 </body>

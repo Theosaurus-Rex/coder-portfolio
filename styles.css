@@ -100,10 +100,8 @@ body {
 
 main {
         display: flex;
-        flex-flow: row;
-        flex-wrap: wrap;
-        align-items: flex-start;
-        justify-content: space-around;
+        flex-direction: column;
+
         
 }
 
@@ -159,31 +157,42 @@ button {
 
 /* About Page Content */
 
+.about-top {
+    display: flex;
+    margin: auto;
+}
+
 .fullbody {
-    max-width: 12%;
-    margin: 40px 0 20px 170px;
+    max-width: 20%;
+    margin: 50px;
     padding: 5px;
     filter: drop-shadow(5px 5px 8px #056674);
     z-index: -3;
 }
 
-.about {
+ .about {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
 }
 
 .about h1 {
-    font-size: 200px;
-    margin-top: 200px;
-    margin-right: 50px;
-    margin-left: 280px;
+    font-size: 510%;
     z-index: 3;
-    position: absolute;
+    align-self: center;
 }
 
+.about-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+
 .about p {
-    margin: 40px;
+    font-size: 150%;
 }
 
 
@@ -192,7 +201,7 @@ button {
     font-size: 300%;
     color: #E0ECE4;
     text-shadow: 2px 2px #FF4B5C;
-    margin-left: 30px;
+    
 }
 
 .about h3 {
@@ -201,7 +210,6 @@ button {
     background-color: #E0ECE4;
     padding: 10px 5px 10px 5px;
     color: #056674;
-    margin-left: 30px;
     box-shadow: 5px 5px #056674;
     max-width: 50%;
     
@@ -210,9 +218,10 @@ button {
 
 .about ul {
     font-family: 'Montserrat', Arial, sans-serif;
-    font-size: 170%;
+    font-size: 150%;
     margin-left: 50px;
     color: #056674;
+    line-height: 150%;
 }
 
 .about button {
@@ -224,7 +233,7 @@ button {
     font-family: 'Norwester', Arial, sans-serif;
     color: #E0ECE4;
     font-size: 170%;;
-}
+} 
 
 
 /* Projects Page Content */
