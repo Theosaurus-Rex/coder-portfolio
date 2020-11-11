@@ -237,23 +237,28 @@ button {
 
 
 /* Projects Page Content */
-
+.projects {
+padding-top: 30px;
+padding-bottom: 50px;
+}
 .projects h1 {
-    position: absolute;
-    margin: 30px 30px 30px 400px;
+    margin: auto;
 }
 
 .project-gallery {
-    margin-top: 230px;
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
-    justify-items: space-between;
+    align-items: center;
+
 }
 
 .project {
+    display: flex;
+    flex-direction: column;
     max-width: 50%;
     height: 50%;
-    margin: 30px 10px 20px 30px;
+    margin: auto;
+    align-items: center;
 
 }
 
@@ -274,13 +279,14 @@ button {
 
 .projects p {
     font-size: 150%;
+    max-width: 50%;
 }
 
 .projects img {
-    max-width: 370px;
+    max-width: 50%;
     border: 3px solid #E0ECE4;
     box-shadow: 5px 5px #056674;
-    margin-left: 20px;
+   
 }
 
 .projects button {
