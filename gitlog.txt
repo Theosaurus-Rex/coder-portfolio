@@ -1,0 +1,371 @@
+commit 5edb5f2a334e128efdae76e87f4544b468f76251
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Mon Nov 9 08:30:56 2020 +1100
+
+    add SRI
+
+commit b25e368ef540b468b0e1923ed039e1ca8881a9da
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 15:48:20 2020 +1100
+
+    add social links to buttons
+
+commit fb7c272c371e87328f86be22aac05978c8b4abd2
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 11:53:32 2020 +1100
+
+    add comments to blog post pages to denote content
+
+commit bfed1b5c69c403ee1b219b6e80ba84bdd5747dee
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 11:29:08 2020 +1100
+
+    fixed link paths from blog post pages
+
+commit 8ed69e0bdf4484f965758d3fda337ebfa90a3bc8
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 11:22:32 2020 +1100
+
+    added form functionality with formspree
+
+commit 75b004e0ba0a0e4b5a9472ea33a5c55ad872fcab
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 11:14:29 2020 +1100
+
+    fix buttons to fit text and sit higher off bottom of page
+
+commit a49a16881ea8cdaa66c4257e2a43b181254fd310
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 11:05:11 2020 +1100
+
+    fix links to blog pages
+
+commit 270e157b0cfbdd47bcef3a725e80a59df11e0d0c
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 10:18:26 2020 +1100
+
+    add styles for blog post pages on desktop
+
+commit 55d1d1ce819b3900e494d5b462c514b1a93e24a8
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 10:12:06 2020 +1100
+
+    add blog styling for mobile phones
+
+commit 057826803a7b67ebcf7752954dbf10390a10e4e7
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 10:10:05 2020 +1100
+
+    fix blog post classes
+
+commit 502d4693d9b3a4a83ed46a520da9cd122d8b3dc2
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 10:09:10 2020 +1100
+
+    add styling for blog post pages
+
+commit 48ac9d356137c80579ac3f0acdbe502119524d1a
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 09:52:22 2020 +1100
+
+    link styles and favicon to blog pages
+
+commit 06465465745ecce4500e1e861d1088a2b0bc5f92
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 09:32:05 2020 +1100
+
+    finish blog pages html content
+
+commit fd21823d660e5b3253a63ebb21b8c17006383709
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 09:29:25 2020 +1100
+
+    finish html for blog post 2
+
+commit 954d1e84df2e045636d3ce8fa1d85fdbf0c5b7a5
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 09:27:31 2020 +1100
+
+    finish html for blog post 1
+
+commit 7a7c569c21ba8b4c9294fc30067f8797aeb8cba5
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 09:14:41 2020 +1100
+
+    add basic blog post skeleton
+
+commit dbddf151b9dd83bdae4af9b4309577388991bfff
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Fri Nov 6 09:05:36 2020 +1100
+
+    add blog post pages
+
+commit 61c4d7e62cd0d75728494e7caab637765fd95811
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 15:38:46 2020 +1100
+
+    clean up docs folder
+
+commit 86c3c7ae13d4b2ed2a476417bedbecdc00d383bb
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 14:41:30 2020 +1100
+
+    add SRI
+
+commit 4fd07eb279f00a473639b596f69e17abdf6877f2
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 14:21:12 2020 +1100
+
+    add comments for clarity
+
+commit c786c2b8ba1497419be35f375c2a558898ee051c
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 14:16:36 2020 +1100
+
+    add slides
+
+commit b7ef2c2c7bd380e3a853399278be30e630cc8082
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 12:43:33 2020 +1100
+
+    add button animation
+
+commit b770df1a898936238044253017d5c04da82f2b65
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 12:07:47 2020 +1100
+
+    add button optimisation for mobile
+
+commit 0a8be65b05db60032b684e0349506f61b2d19253
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 11:55:26 2020 +1100
+
+    fix button syntax to be industry standard, re-style button
+
+commit 75111df449becc9a708c51e538384a1a93190897
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 11:36:01 2020 +1100
+
+    add resume
+
+commit 2a9ba2d3bdaf49993a1fec9b41083911b862fd28
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 11:05:57 2020 +1100
+
+    update README.md with site screenshots
+
+commit e0461ce19311b081d8e4de98321438b4cf16d59d
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 10:52:10 2020 +1100
+
+    add favicon
+
+commit c84be0d361672826cf01bc4d659e06eac52ad801
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 10:42:18 2020 +1100
+
+    confirm site works on all mobiles and tablets, minor bug fixes for some display issues
+
+commit 48f0270bcc16b8b8dbaacbe598fb61ecfdb63e9a
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 10:19:39 2020 +1100
+
+    added desktop media query
+
+commit 3ec7d18a04b14c3d42f74a45d23611f2fa3df185
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 09:56:56 2020 +1100
+
+    add styling for contact page desktop view
+
+commit 105df255d57ea4b0971ad8bd39b943be7be58853
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 09:50:56 2020 +1100
+
+    add styling for blog desktop view
+
+commit e37c701fd200ce6e1e6fe3d60548a5438626906c
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 09:47:14 2020 +1100
+
+    add styling for portfolio desktop view, add placeholder projects
+
+commit e02c2189a41954ad2f49e83c55c5fc8ce4b32f24
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 09:36:38 2020 +1100
+
+    style about page desktop view
+
+commit e9fc923ab5871f14c8e066be4ffe2ebffd9b4b0e
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Thu Nov 5 09:30:33 2020 +1100
+
+    fix styling for landing page, fix media queries bug
+
+commit ed1eaa8ce404f49d35360a1c6a4036214659aa13
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Wed Nov 4 10:14:28 2020 +1100
+
+    finish styling contact page tablet view
+
+commit dc1499185efa819db8828633e6c54ae9986730af
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Wed Nov 4 10:08:19 2020 +1100
+
+    finish styling blog tablet view
+
+commit 8c49b01bc29b750941f05fc87fc07c316519f313
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Wed Nov 4 10:02:05 2020 +1100
+
+    finish styling projects tablet view
+
+commit 3f5ed68472805dca9fe37740cba1af7820560564
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Wed Nov 4 09:47:56 2020 +1100
+
+    finish styling about page tablet view
+
+commit 50d5681b01f0358155cb34651bf846afece57185
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Wed Nov 4 09:08:25 2020 +1100
+
+    finish styling home page tablet view
+
+commit 37c22640115d31c1715d00eade22fa51a6b3b806
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Tue Nov 3 15:23:10 2020 +1100
+
+    finish styling mobile contact page
+
+commit 1f559f0aec46e2eaf648ce094e148688cf817288
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Tue Nov 3 15:00:31 2020 +1100
+
+    finish dummy blog content
+
+commit c6ba0568b1f77fb453db2f67c366b56e8630de4f
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Tue Nov 3 14:47:47 2020 +1100
+
+    finish styling blog mobile view
+
+commit bf20600875252ee62463a800f932190fd910bbde
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Tue Nov 3 08:53:07 2020 +1100
+
+    start styling blog page, add images
+
+commit 1d39db884428c8c8fc506ce362f388cbf365eb2c
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Tue Nov 3 08:35:21 2020 +1100
+
+    fix shadows on landing page
+
+commit 6dff78dd9d0f53f62cfd627393039f053ebb52ed
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Mon Nov 2 09:48:50 2020 +1100
+
+    start styling projects page
+
+commit bdd686cba96b7bc2e6cbaabd9f4a349fef1e7f36
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Mon Nov 2 09:32:26 2020 +1100
+
+    add information to README.md
+
+commit 6266a07cd47f14a9684c92ba67e4e71c3175d0e7
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sun Nov 1 18:15:19 2020 +1100
+
+    fixed css linking bug
+
+commit 5128e9bc5575416a6d52fe9fdad94b095b9f46dc
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sun Nov 1 18:08:37 2020 +1100
+
+    fix nav links
+
+commit 497e80e079d536d70a260b9231fe57a4fccfca40
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sun Nov 1 18:00:21 2020 +1100
+
+    finish styling about page mobile view
+
+commit 4072e4fc7f19146dcea09c4b7bb4fbce7027898a
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 15:07:26 2020 +1100
+
+    start styling about page for mobile view
+
+commit afb66bb02b020e59137b0f7627daa792a2d0cae4
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 14:44:41 2020 +1100
+
+    start fixing file path issues with pages and css
+
+commit ea0e6e125de481405deb6de53653bc475c2cf057
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 14:24:28 2020 +1100
+
+    add styles for home page mobile view
+
+commit 108013f6f5d1b1d84bf9ea6fde4be6f68d389b04
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 14:03:13 2020 +1100
+
+    update styles
+
+commit 1d1f416311c1e0a48af63956a1a5150d0c75d537
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 10:19:22 2020 +1100
+
+    add comments for clarity on all html and css documents
+
+commit b342750b62189a99bbeaac3b1604c12299f8debe
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 10:14:29 2020 +1100
+
+    add fonts to styles.css
+
+commit 77a382a8f5fb4222246b4de105fe6f46b1edf092
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 10:07:38 2020 +1100
+
+    add form to contact page
+
+commit d9cba5f400ac7f277db8cc9816039a4e73dbb99b
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 10:04:22 2020 +1100
+
+    add projects to projects page
+
+commit 97ffd90f6d48967b1804a85edf3099cb2ce624aa
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 10:01:26 2020 +1100
+
+    update blog HTML
+
+commit 9f09ab0b6ea797a19944b5f24969bd7ade8ebf87
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 09:09:34 2020 +1100
+
+    update about page html
+
+commit bedf6820ade7fc9693b29c6816497f7e4156c2c7
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 08:42:18 2020 +1100
+
+    update home page html
+
+commit ff4b12fb085d4725e73ef59d414674d77917e292
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 08:37:38 2020 +1100
+
+    add basic html and header on all pages
+
+commit 3753e046c03947dd493faa9bc741915dec84723a
+Author: Theosaurus-Rex <theosaurus13@gmail.com>
+Date:   Sat Oct 31 08:30:46 2020 +1100
+
+    first commit
