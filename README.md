@@ -23,10 +23,10 @@ Note that some features differ from the initial wireframe:
 
 ## Screenshots
 
-![About page desktop view](docs/about-desktop.png)
-![Contact page mobile view](docs/contact-mobile.png)
-![Home page iPad view](docs/ipad-home.png)
-![Blog iPad view](docs/blog-ipad.png)
+![About page desktop view](docs/about-mobile.png)
+![Contact page mobile view](docs/contact-desktop.png)
+![Home page iPad view](docs/home-desktop.png)
+![Blog iPad view](docs/projects-tablet.png)
 
 ## Target Audience
 This site is aimed at two primary audiences. The first group is made up of those who are seeking developers for their business or startup, and serves as a way of showcasing skills they may specifically be looking for to fill the role they need. The second, and perhaps less prominent audience, is individuals who are looking to contract a developer as a freelancer to work on a single project, such as a website.
@@ -44,4 +44,5 @@ The following external resources were used in creating this website:
 - Google Fonts
 - Unsplash (for stock images)
 - OpenPeeps (for cartoon portraits)
+- FormSpree (form hosting)
 
