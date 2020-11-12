@@ -1012,15 +1012,20 @@ padding-bottom: 50px;
 
     /* Projects Page Content */
 
+    .projects {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
     .projects h1 {
-        margin-left: 210px;
-        margin-top: 30px;
+        margin: auto;
     }
 
     .project-gallery {
-        margin-top: 170px;
-        margin-left: 20px;
-        margin-right: 20px;
+        
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
