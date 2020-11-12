@@ -370,7 +370,9 @@ padding-bottom: 50px;
 
        /* Blog Post Individual Page Styles */
 
-     
+    .blog-post {
+        padding-bottom: 50px;
+    }
     
     .blog-post h2 {
         font-family: 'Kollektif', Arial, sans-serif;
