@@ -781,19 +781,25 @@ padding-bottom: 50px;
     /* Contact Page Content */
     
     .contact h1 {
-        margin-left: 20px;
+        margin: auto;
     }
 
     .contact p {
-        margin-left: 20px;
+        margin: 20px;
     }
 
     .contact article {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         margin-top: 15px;
         margin-bottom: 30px;
 
+    }
+
+    .contact .buttons {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
     }
 
     .contact button {
@@ -804,6 +810,7 @@ padding-bottom: 50px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
         font-size: 150%;
+        margin: 0 10px 0 10px;
            
     }
 
