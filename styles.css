@@ -310,6 +310,7 @@ padding-bottom: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100vw;
     padding: 30px auto 50px auto;
 }
 
@@ -318,10 +319,12 @@ padding-bottom: 50px;
 }
 
 .posts {
+
     display: flex;
     flex-wrap: wrap;
     padding-top: 50px;
-    justify-content: space-evenly;
+    width: 100vw;
+    justify-content: center;
 }
 
 .blog img {
@@ -363,8 +366,8 @@ padding-bottom: 50px;
 
 
 .blog article {
-    width: 50%;
-    margin-bottom: 30px;
+    margin: 10px;
+    flex: 0 1 300px;
     
 }
 
@@ -1111,6 +1114,7 @@ padding-bottom: 50px;
 
     /* Blog Page Content */
 
+
     .blog h1 {
       margin: 30px;
     }
@@ -1156,6 +1160,7 @@ padding-bottom: 50px;
     }
 
     .blog article {
+        width: 600px;
         margin-bottom: 30px;
     }
 
