@@ -868,13 +868,15 @@ padding-bottom: 50px;
 
     /* Landing Page Content */
 
-    main {
-    /* display: flex; */
-    flex-direction: row;
+    
             
             
             
             
+   
+
+    main section {
+        justify-content: center;
     }
 
     
@@ -922,7 +924,9 @@ padding-bottom: 50px;
             font-family: 'Norwester', Arial, sans-serif;
             color: #E0ECE4;
             font-size: 170%;
-            margin-left: 50px;
+            justify-self: center;
+            margin-left: 40%;
+            
     }
     
     
