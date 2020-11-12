@@ -1170,20 +1170,23 @@ padding-bottom: 50px;
     }
 
     /* Contact Page Content */
+
+    .contact {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 50px;
+    }
     
-    .contact h1 {
-        margin-left: 30px;
-        margin-top: 30px;
+
+    .contact-middle {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
-    .contact p {
-        margin-left: 30px;
-        margin-top: 150px;
-    }
-
-    .contact .buttons {
-       margin: 30px auto 30px auto;
-
+    .buttons {
+        margin-bottom: 30px;
     }
 
     .contact button {
@@ -1194,6 +1197,7 @@ padding-bottom: 50px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
         font-size: 170%;
+        margin: auto;
            
     }
 
