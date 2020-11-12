@@ -305,41 +305,48 @@ padding-bottom: 50px;
 
 /* Blog Page Content */
 
+.blog {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px auto 50px auto;
+}
+
 .blog h1 {
-  margin: 30px 10px 30px 530px;
+  margin: auto;
 }
 
 .posts {
-    margin-top: 260px;
     display: flex;
     flex-wrap: wrap;
+    padding-top: 50px;
+    justify-content: space-evenly;
 }
 
 .blog img {
-    margin: 30px 70px 30px 70px;
-    max-width: 550px;
+    max-width: 70%;
     border: 3px solid #E0ECE4;
     box-shadow: 5px 5px #056674;
 }
 
 .blog h2 {
     font-family: 'Kollektif', Arial, sans-serif;
-    font-size: 280%;
+    font-size: 240%;
     color: #E0ECE4;
     text-shadow: 2px 2px #FF4B5C;
-    margin: 0 20px 10px 20px; 
+    margin: auto;
 }
 
 .blog h3 {
     font-family: 'Kollektif', Arial, sans-serif;
     font-size: 140%;
     color: #056674;
-    margin: 0 0 5px 20px;
+    margin: auto;
     font-style: italic;
 }
 
 .blog p {
-    margin-left: 30px;
+    font-size: 140%
 }
 
 .blog button {
@@ -347,7 +354,7 @@ padding-bottom: 50px;
     background-color: #FF4B5C;
     border: 1px solid #056674;
     border-radius: 5px;
-    margin: 0 30px 50px 30px;
+    margin: auto;
     font-family: 'Norwester', Arial, sans-serif;
     color: #E0ECE4; 
 }
@@ -355,8 +362,9 @@ padding-bottom: 50px;
 
 
 .blog article {
-    margin: 30px;
-    max-width: 40%;
+    width: 50%;
+    margin-bottom: 30px;
+    
 }
 
        /* Blog Post Individual Page Styles */
