@@ -877,8 +877,6 @@ padding-bottom: 50px;
             
     }
 
-   
-
     
     
     main h1 {
@@ -931,6 +929,16 @@ padding-bottom: 50px;
 
     /* About Page Content */
 
+    .about-top {
+        display: flex;
+    }
+
+    .about-middle {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
     .fullbody {
         max-width: 30%;
         margin: 40px;
@@ -940,21 +948,21 @@ padding-bottom: 50px;
     }
 
     .about {
-        display: inline-flex;
+        display: flex;
         flex-wrap: wrap;
         flex-direction: column;
+        padding-bottom: 50px;
+        align-items: center;
     }
 
     .about h1 {
         font-size: 150px;
-        margin-top: 250px;
-        margin-right: 50px;
-        margin-left: 280px;
-        z-index: 3;
+        margin: auto;
+
     }
 
     .about p {
-        margin: auto;
+        margin: 20px;
     }
 
 
@@ -963,6 +971,7 @@ padding-bottom: 50px;
         font-size: 300%;
         color: #E0ECE4;
         text-shadow: 2px 2px #FF4B5C;
+        align-self: flex-start;
         margin-left: 30px;
     }
 
@@ -975,15 +984,17 @@ padding-bottom: 50px;
         margin-left: 30px;
         box-shadow: 5px 5px #056674;
         max-width: 45%;
+        align-self: flex-start;
 
     }
 
     .about ul {
         font-family: 'Montserrat', Arial, sans-serif;
-        font-size: 220%;
+        font-size: 190%;
         margin-left: 60px;
         color: #056674;
         margin-bottom: 30px;
+        align-self: flex-start;
     }
 
     .about button {
@@ -991,11 +1002,10 @@ padding-bottom: 50px;
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
-        margin: 50px auto 50px auto;
         padding: 5px;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
-        font-size: 170%;
+        font-size: 190%;
     }
 
     
