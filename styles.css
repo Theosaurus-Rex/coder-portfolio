@@ -1090,9 +1090,7 @@ padding-bottom: 50px;
       margin: 30px;
     }
 
-    .posts {
-        margin-top: 200px;
-    }
+    
 
     .blog img {
         margin: 30px 70px 30px 70px;
@@ -1139,8 +1137,7 @@ padding-bottom: 50px;
     /* Blog Post Individual Page Styles */
 
     .blog-post {
-        display: flex;
-        flex-wrap: wrap;
+     padding-bottom: 50px;
     }
     
     .blog-post h2 {
@@ -1164,6 +1161,7 @@ padding-bottom: 50px;
         border: 3px solid #E0ECE4;
         box-shadow: 5px 5px #056674;
         margin: 30px;
+        float: left;
     }
 
     .blog-post p {
