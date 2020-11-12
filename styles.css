@@ -100,14 +100,15 @@ body {
 
 main {
         display: flex;
-        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        
 
         
 }
 
 main section {
-    max-width: 60%;
-    justify-self: flex-end;
+    max-width: 55%;
     margin-bottom: 50px;
 }
 
@@ -129,11 +130,11 @@ main p {
 
 
 .portrait {
-        max-width: 20%;
-        min-width: 15%;
+    
+        width: 30%;
         margin: 30px;
         filter: drop-shadow(5px 5px 8px #056674);
-        
+        align-self: center;
 }
 
     
