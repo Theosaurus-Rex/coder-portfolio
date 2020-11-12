@@ -588,23 +588,16 @@ padding-bottom: 50px;
 
     /* About Page Content */
 
-    .fullbody {
-        max-width: 30%;
-        margin: 10px;
-        padding: 5px;
-        border: 3px dashed #FF4B5C;
-        border-radius: 5px;
-        
-    }
 
     .about {
         display: flex;
         flex-wrap: wrap;
-        flex-direction: row;
+        flex-direction: column;
     }
 
     .about h1 {
-        font-size: 60px;
+        font-size: 400%;
+        margin: auto;
     }
 
     .about p {
@@ -629,7 +622,7 @@ padding-bottom: 50px;
         background-color: #E0ECE4;
         padding: 10px;
         color: #056674;
-        margin: auto;
+        margin: 10%;
         box-shadow: 5px 5px #056674;
 
     }
@@ -644,7 +637,7 @@ padding-bottom: 50px;
         background-color: #FF4B5C;
         border: 1px solid #056674;
         border-radius: 5px;
-        margin: 30px auto 50px auto;
+        margin-left: 35%;
         font-family: 'Norwester', Arial, sans-serif;
         color: #E0ECE4;
         font-size: 150%;
