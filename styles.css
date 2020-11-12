@@ -831,6 +831,8 @@ padding-bottom: 50px;
     /* Header and Nav Bar */
 
     header {
+        display: flex;
+        flex-direction: column;
         background-color: #056674;
         min-width: 100%;
         
@@ -838,7 +840,6 @@ padding-bottom: 50px;
 
     nav {
         display: flex;
-        flex-direction: column;
     
     }
 
@@ -846,9 +847,7 @@ padding-bottom: 50px;
         
         height: 100px;
         width: 100px;
-        margin-top: 5px;
-        margin-bottom: 5px;
-        align-self: center;
+        margin: auto;
     }
 
     nav ul {
@@ -860,7 +859,7 @@ padding-bottom: 50px;
     }
 
     nav ul li a {
-        font-size: 40px;
+        font-size: 200%;
         font-family: 'Norwester', sans-serif;
         color: #E0ECE4;
         margin: 15px;
